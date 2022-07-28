@@ -1,7 +1,7 @@
 ## Implementation of Monocular 3D Multi-Person Pose Estimation by Integrating Top-Down and Bottom-Up Networks
 
 
-This is an implementation of the following work:
+This is an implementation of the methods found in the following work:
 ```
 @article{cheng2022dual,
   title={Dual networks based 3D Multi-Person Pose Estimation from Monocular Video},
@@ -17,5 +17,15 @@ This is an implementation of the following work:
     month     = {June},
     year      = {2021},
     pages     = {7649-7659}
+}
+```
+
+The visualization code is from the following work:
+```
+@InProceedings{Moon_2019_ICCV_3DMPPE,
+  author = {Moon, Gyeongsik and Chang, Juyong and Lee, Kyoung Mu},
+  title = {Camera Distance-aware Top-down Approach for 3D Multi-person Pose Estimation from a Single RGB Image},
+  booktitle = {The IEEE Conference on International Conference on Computer Vision (ICCV)},
+  year = {2019}
 }
 ```
