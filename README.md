@@ -31,4 +31,4 @@ The visualization code is from the following work:
 ```
 
 # Results
-[TS10](https://github.com/chrisprasanna/3D_Crowd_Pose_Implementation/blob/83440f647553f75e92364c99857be9bed982474c/vis/multi/vis/TS10/TS10_singleFig.mp4)
+![TS10](https://github.com/chrisprasanna/3D_Crowd_Pose_Implementation/blob/83440f647553f75e92364c99857be9bed982474c/vis/multi/vis/TS10/TS10_singleFig.mp4)
