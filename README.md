@@ -31,4 +31,20 @@ The visualization code is from the following work:
 ```
 
 # Results
-![TS10](https://github.com/chrisprasanna/3D_Crowd_Pose_Implementation/blob/83440f647553f75e92364c99857be9bed982474c/vis/multi/vis/TS10/TS10_singleFig.mp4)
+
+
+https://user-images.githubusercontent.com/88418264/182261109-80d2c33e-f841-4f4c-aae2-9a1ca00731cf.mp4
+
+https://user-images.githubusercontent.com/88418264/182261130-7ab58826-6923-433d-b54d-bd6302557d42.mp4
+
+https://user-images.githubusercontent.com/88418264/182261159-beed0ae9-1268-4b33-95bf-d974af754ac3.mp4
+
+https://user-images.githubusercontent.com/88418264/182261151-479a8e72-a8d8-467c-bffc-10da4891ebe5.mp4
+
+https://user-images.githubusercontent.com/88418264/182261145-03d218be-165f-428c-9f82-f615d7181884.mp4
+
+https://user-images.githubusercontent.com/88418264/182261251-a62d68b4-a46b-4bea-8b25-f196ef9423a1.mp4
+
+https://user-images.githubusercontent.com/88418264/182261267-b6f2e335-c89b-4971-a6ab-804643bf7d6b.mp4
+
+https://user-images.githubusercontent.com/88418264/182261300-6d68e1eb-861c-4018-8b3a-702583425044.mp4
